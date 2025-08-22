@@ -2,6 +2,8 @@
 
 This is a simple website project for showing how to use git and github together.
 
+Adding a line fo rebasing example.
+
 ## Introduction 
 This is example is to show different parts of the Git repository and various commands using a web project.
 
