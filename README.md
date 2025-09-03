@@ -16,7 +16,7 @@ As stated above, this is showing command to use with git.
 This is asimple web project, depoyment can be done on any web server or even local file system.
 
 ## How to contribute
-Please fork this repository and then issue pull requests for review
+Please fork this repository and then issue pull requests for review 2
 
 ### Copyright
 2025 Git.Training
