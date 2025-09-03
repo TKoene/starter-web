@@ -16,3 +16,6 @@ As stated above, this is showing command to use with git.
 This is asimple web project, depoyment can be done on any web server or even local file system.
 
 ## How to contribute
+
+### Copyright
+2025 Git.Training
