@@ -21,4 +21,4 @@ This is asimple web project, depoyment can be done on any web server or even loc
 Please fork this repository and then issue pull requests for review 2
 
 ### Copyright
-2025 Git.Training
+2025 Git.Training. All rights reserved
