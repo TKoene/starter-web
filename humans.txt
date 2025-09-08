@@ -14,3 +14,4 @@ tkoene -- dev tk@aol.com
 
     HTML5, CSS3
     jQuery, Modernizr
+	git
